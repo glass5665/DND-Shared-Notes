@@ -1,0 +1,10 @@
+{
+  "accentColor": "",
+  "cssTheme": "Shiba Inu",
+  "enabledCssSnippets": [
+    "dashboard",
+    "S - Encoded Fonts",
+    "S - Encoded Icons"
+  ],
+  "baseFontSize": 12
+}

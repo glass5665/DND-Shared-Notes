@@ -1,0 +1,248 @@
+{
+  "main": {
+    "id": "0a24bd9c0978792c",
+    "type": "split",
+    "children": [
+      {
+        "id": "0e603ddf8cec1d03",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "15f96f92822ee0e6",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "8641ff9e4b90f210",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Readme.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "176bfd234e3c557a",
+    "type": "split",
+    "children": [
+      {
+        "id": "ff0bc14f5399ed81",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9017b3108ab3abfe",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "42bc30e07a56628f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0c4a11afb6788488",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 202.5
+  },
+  "right": {
+    "id": "9f11a7aca38ec8fe",
+    "type": "split",
+    "children": [
+      {
+        "id": "2e1c7c505304316e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0b2ed532d4acb868",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "5c2a5409890a1c52",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Readme.md"
+              }
+            }
+          },
+          {
+            "id": "f6ac341537657fff",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "080dbaef7a7c8847",
+            "type": "leaf",
+            "state": {
+              "type": "memos_view",
+              "state": {}
+            }
+          },
+          {
+            "id": "5294c96d6634f8be",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Readme.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ffef75132fcef06b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Readme.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "47d1cc1abe094bf4",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
+            }
+          },
+          {
+            "id": "0007ba54ea75bddc",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "templates:Insert template": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-5e-statblocks:Open Creature Pane": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false,
+      "obsidian-gallery:Gallery": false,
+      "dbfolder:Create a new database table": false,
+      "obsidian-memos:Memos": false
+    }
+  },
+  "active": "8641ff9e4b90f210",
+  "lastOpenFiles": [
+    "Readme.md",
+    "DND/Coalaxia/1. Characters/1.1 Deities/Primal Guardians/Nars.md",
+    "DND/Coalaxia/1. Characters/1.1 Deities/Primal Guardians/Shui.md",
+    "DND/Coalaxia/1. Characters/NPC Database.md",
+    "Templates/DND Templates/Database Folder Templates/NPC Template.md",
+    "DND/Coalaxia/3. Geography and Organizations/3.2 Nations and Factions/Primal Guardian Pantheon.md",
+    "DND/Coalaxia/Dataview Queries.md",
+    "Templates/DND Templates/Session prep.md",
+    "Character Ideas.md",
+    "DND/Coalaxia/3. Geography and Organizations/3.4 Misc Locations",
+    "Photos/Water Symbol.png",
+    "Photos/Symbol Template.png",
+    "Photos/54e0276dccb22d00af614c797a0b7f31.jpg",
+    "Photos/54e0276dccb22d00af614c797a0b7f31.jpg.crdownload",
+    "Photos/6546746f994e9383ba099ab398baa158.jpg",
+    "Photos/6546746f994e9383ba099ab398baa158.jpg.crdownload",
+    "Photos/949485a780548eaf896c594618f53f8c.gif",
+    "Photos/949485a780548eaf896c594618f53f8c.gif.crdownload",
+    "Photos/a9c4dc226c1bde4f63aa5fa92dd2e070.jpg",
+    "Photos/a9c4dc226c1bde4f63aa5fa92dd2e070.jpg.crdownload",
+    "Photos/e397ca5e1801251e668e608c976ecbf2.jpg",
+    "Photos/e397ca5e1801251e668e608c976ecbf2.jpg.crdownload",
+    "Photos/9267a251b3bcb5e54c6612aaeddab52b.png",
+    "Photos/9267a251b3bcb5e54c6612aaeddab52b.png.crdownload",
+    "Templates/DND Templates/Database Folder Templates/Deity Template.md",
+    "Templates/DND Templates/Database Folder Templates/Deity Database.md",
+    "Templates/DND Templates/Database Folder Templates/NPC Database (2).md",
+    "DND/Coalaxia/Metadata Model.md",
+    "DND/Coalaxia/1. Characters/1.1 Deities/Primal Guardians/Untitled database.md",
+    "Templates/General Templates/BOI.md",
+    "Templates/General Templates/Primal Guardian of Fire, Primal Guardian.md",
+    "Templates/General Templates/Untitled database.md",
+    "Templates/General Templates/Nars.md",
+    "Templates/General Templates/Shui (4).md",
+    "Templates/General Templates/Shui (3).md",
+    "Templates/General Templates/Shui (2).md",
+    "Templates/General Templates/Boi (2).md",
+    "Templates/General Templates/Nars (2).md",
+    "Templates/General Templates/bob (2).md",
+    "Templates/General Templates/Kuki.md",
+    "Templates/General Templates/Gull.md",
+    "Templates/DND Templates/Database Folder Templates",
+    "Photos/PlaceholderImage.png",
+    "Photos/download.jpg",
+    "Photos",
+    "DND/Worlds/1. Coalaxia/6. Magic and Technology/Untitled",
+    "Untitled.canvas"
+  ]
+}
